@@ -1,3 +1,7 @@
+# Api calendário de eventos
+
+- Projeto de API para o desafio do Pravaler.
+
 # Stack do projeto
 
 - Python
