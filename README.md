@@ -21,6 +21,13 @@ Faça build nas imagens e rode os containers:
 $ docker-compose up -d --build
 ```
 
+Como rodar os testes:
+
+```sh
+docker-compose up -d --build
+$ docker-compose exec web pytest .
+```
+
 Teste as seguintes rotas:
 
 1. [http://localhost:8002/docs](http://localhost:8002/docs)
