@@ -24,7 +24,7 @@ $ docker-compose up -d --build
 Como rodar os testes:
 
 ```sh
-docker-compose up -d --build
+$ docker-compose up -d --build
 $ docker-compose exec web pytest .
 ```
 
